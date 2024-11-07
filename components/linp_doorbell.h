@@ -3,7 +3,7 @@
 #include "esphome/core/component.h"
 #include "esphome/components/api/custom_api_device.h"
 #include "esphome/components/sensor/sensor.h"
-#include "ArduinoQueue.h"
+
 
 namespace esphome {
 namespace linp_doorbell {
